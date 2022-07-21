@@ -1,0 +1,11 @@
+h1{
+color: blue;
+
+}
+div{
+background-image: url(./download\ \(1\).jpg);
+background-repeat: no-repeat;
+width: 100%;
+background-size: cover;
+height: 700px;
+}
